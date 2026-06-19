@@ -1,18 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4C1D95,50:6366F1,100:8B5CF6&text=YOUR%20NAME&fontSize=55&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Product%20Builder&descAlignY=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4C1D95,50:6366F1,100:8B5CF6&text=Arslan%20Ramzan&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20BSIT%20Student&descAlignY=62"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Product+Focused+Engineer;Open+Source+Contributor;Building+Scalable+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;BSIT+Student;Aspiring+AI+Engineer;Open+Source+Learner;Building+Modern+Digital+Products"/>
 
-<br/>
+<br>
 
-![](https://img.shields.io/badge/Bachelor's%20Degree-In%20Computer%20Science-8B5CF6?style=for-the-badge)
-![](https://img.shields.io/badge/AI%20Engineer-Machine%20Learning-6366F1?style=for-the-badge)
-![](https://img.shields.io/badge/Product%20Engineer-Full%20Stack-4F46E5?style=for-the-badge)
+![](https://img.shields.io/badge/BSIT-2023--2027-8B5CF6?style=for-the-badge)
 
-![](https://img.shields.io/badge/Location-Your%20City,%20Country-312E81?style=for-the-badge)
+![](https://img.shields.io/badge/University%20of%20the%20Punjab-Pothohar%20Campus-6366F1?style=for-the-badge)
 
-<br/>
+![](https://img.shields.io/badge/6th-Semester-4F46E5?style=for-the-badge)
+
+![](https://img.shields.io/badge/Location-Rawalpindi,%20Pakistan-312E81?style=for-the-badge)
+
+<br><br>
 
 <a href="https://raiarslan807.github.io/">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -22,52 +24,56 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:arslanramzan807@gmail.com">
+<a href="mailto:arsalanramzan807@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-4F46E5?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/raiarslan807">
+<a href="https://github.com/Raiarslan807">
 <img src="https://img.shields.io/badge/GitHub-Profile-312E81?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br><br>
 
-![](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=8B5CF6)
+![](https://komarev.com/ghpvc/?username=Raiarslan807\&style=for-the-badge\&color=8B5CF6)
 
-![](https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=6366F1&label=Followers)
+![](https://img.shields.io/github/followers/Raiarslan807?style=for-the-badge\&label=Followers)
 
-![](https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=4F46E5&label=Stars)
+![](https://img.shields.io/github/stars/Raiarslan807?style=for-the-badge\&label=Stars)
 
 </div>
 
 ---
 
-# About
+# About Me
 
-I am a **Software Engineer, AI Engineer, and Full Stack Product Developer** focused on building enterprise-grade systems that deliver measurable business impact.
+I am a **BSIT student, Software Engineer, and Full Stack Developer** currently pursuing my degree at **University of the Punjab, Pothohar Campus, Gujar Khan (2023–2027)**.
 
-My engineering approach combines **software architecture**, **artificial intelligence**, **machine learning**, and **product engineering** to create scalable, secure, and high-performance applications.
+I enjoy building modern web applications, creating digital products, and continuously improving my software engineering skills by working on real-world projects.
 
-I enjoy transforming complex business requirements into elegant digital products while maintaining strong engineering standards, clean code practices, and long-term maintainability.
+My goal is to become a well-rounded engineer who can build scalable, user-friendly, and impactful solutions by combining **software engineering, full stack development, and artificial intelligence**.
 
-### Engineering Focus
+## Current Journey
 
-- Enterprise Software Engineering
-- AI & Machine Learning Systems
-- Full Stack Product Development
-- Distributed System Design
-- Cloud Native Applications
-- Open Source Contributions
-- Developer Experience Optimization
+```text
+🎓 BSIT Student (2023–2027)
 
-### Open To
+🏫 University of the Punjab, Pothohar Campus, Gujar Khan
 
-- Software Engineering Roles
-- AI/ML Engineering Roles
-- Full Stack Engineering Roles
-- Product Engineering Opportunities
-- Open Source Collaborations
-- Technical Leadership Opportunities
+📚 Currently in 6th Semester
+
+💻 Building real-world projects
+
+🤖 Exploring Artificial Intelligence
+
+🚀 Growing towards Full Stack Engineering
+```
+
+## Open To
+
+* 💼 Internship Opportunities
+* 🌍 Remote Jobs
+* 🛠 Freelance Projects
+* 🤝 Open Source Collaboration
 
 ---
 
@@ -75,132 +81,176 @@ I enjoy transforming complex business requirements into elegant digital products
 
 ## Languages
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,go,php,r"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp"/>
 
-</p>
+</div>
 
-## Frontend
+## Frontend Development
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,html,css,tailwind,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap"/>
 
-</p>
+</div>
 
 ## Backend & Databases
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,spring,mongodb,mysql,postgresql"/>
+<img src="https://skillicons.dev/icons?i=nodejs,mysql"/>
 
-</p>
+</div>
 
-## Cloud, DevOps & Tooling
+## Tools & Design
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,git,github,linux,nginx"/>
+<img src="https://skillicons.dev/icons?i=git,github,figma"/>
 
-</p>
-
----
-
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|--------|-------------|---------|
-| Machine Learning | Advanced | Supervised, unsupervised and ensemble learning |
-| Deep Learning | Advanced | CNN, RNN, Transformers |
-| Generative AI | Advanced | LLM integrations and RAG systems |
-| Computer Vision | Intermediate | Detection, segmentation and image pipelines |
-| NLP | Advanced | Text analytics and language models |
-| Data Engineering | Advanced | ETL pipelines and analytics |
-| MLOps | Intermediate | Deployment and monitoring |
-| AI Product Engineering | Advanced | Production-ready AI systems |
+</div>
 
 ---
 
+# Tech Roadmap
+
+| Domain                  | Progress         |
+| ----------------------- | ---------------- |
+| Frontend Development    | ██████████░░ 85% |
+| Backend Development     | ███████░░░░░ 70% |
+| Database Management     | ██████░░░░░░ 60% |
+| Software Engineering    | █████████░░░ 80% |
+| Artificial Intelligence | ████░░░░░░░░ 35% |
+
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - React
+  - Next.js
+  - Node.js
+  - AI/ML
+
+Building:
+  - Full Stack Projects
+  - Modern Web Applications
+  - Portfolio Projects
+
+Exploring:
+  - Open Source
+  - Product Development
+  - Artificial Intelligence
+
+Open_To:
+  - Internship Opportunities
+  - Remote Jobs
+  - Freelance Projects
+  - Open Source Collaboration
+```
+
+---
 # Featured Projects
 
 <details>
-<summary><strong>Enterprise AI Assistant Platform</strong></summary>
+<summary><strong>🌐 Portfolio Website</strong></summary>
 
 ### Description
 
-A production-ready AI platform that integrates LLMs, RAG pipelines, vector databases, and enterprise authentication.
+My personal developer portfolio designed to showcase my projects, skills, and professional journey with a clean and responsive interface.
 
-| Metric | Details |
-|--------|---------|
-| Stack | Python, FastAPI, React, PostgreSQL |
-| Scale | Multi-tenant architecture |
-| Performance | Optimized low-latency responses |
-| Security | RBAC, JWT, encryption |
-| Impact | Increased operational efficiency |
-| Repository | https://github.com/yourusername/project |
+| Metric      | Details                                                                          |
+| ----------- | -------------------------------------------------------------------------------- |
+| Repository  | [Raiarslan807.github.io](https://github.com/Raiarslan807/Raiarslan807.github.io) |
+| Stack       | HTML, CSS, JavaScript                                                            |
+| Category    | Personal Branding                                                                |
+| Performance | Responsive & Optimized                                                           |
+| Deployment  | GitHub Pages                                                                     |
+| Impact      | Establishes a professional online presence                                       |
 
-Professional AI platform engineered for enterprise adoption with maintainable architecture and observability.
+### Highlights
+
+* Responsive design
+* Modern UI
+* Professional branding
+* Recruiter-friendly structure
 
 </details>
 
 <details>
-<summary><strong>Cloud Native SaaS Platform</strong></summary>
+<summary><strong>🛒 Stryde E-Commerce</strong></summary>
 
 ### Description
 
-A scalable SaaS application with automated deployments and monitoring.
+A modern e-commerce website focused on user experience, responsive layouts, and product presentation.
 
-| Metric | Details |
-|--------|---------|
-| Stack | Next.js, Node.js, Docker, AWS |
-| Scale | Thousands of concurrent users |
-| Performance | CDN optimized |
-| Security | OAuth2 and MFA |
-| Impact | Improved customer engagement |
-| Repository | https://github.com/yourusername/project |
+| Metric      | Details                                                              |
+| ----------- | -------------------------------------------------------------------- |
+| Repository  | [stryde-ecommerce](https://github.com/Raiarslan807/stryde-ecommerce) |
+| Stack       | HTML, CSS, JavaScript                                                |
+| Category    | E-Commerce                                                           |
+| Performance | Optimized UI                                                         |
+| Security    | Frontend Best Practices                                              |
+| Impact      | Enhanced shopping experience                                         |
 
-Designed using modern product engineering principles and cloud-native architecture.
+### Highlights
+
+* Responsive design
+* Modern UI components
+* Product-centric layout
+* Clean architecture
 
 </details>
 
 <details>
-<summary><strong>Machine Learning Analytics Engine</strong></summary>
+<summary><strong>🌦️ SkyCast Weather</strong></summary>
 
 ### Description
 
-A predictive analytics engine delivering actionable insights from business datasets.
+A weather application that fetches real-time weather information and presents it through an intuitive interface.
 
-| Metric | Details |
-|--------|---------|
-| Stack | Python, TensorFlow, Pandas |
-| Scale | Millions of records |
-| Performance | Optimized pipelines |
-| Security | Secure data handling |
-| Impact | Improved decision making |
-| Repository | https://github.com/yourusername/project |
+| Metric      | Details                                                            |
+| ----------- | ------------------------------------------------------------------ |
+| Repository  | [skycast-weather](https://github.com/Raiarslan807/skycast-weather) |
+| Stack       | HTML, CSS, JavaScript                                              |
+| Category    | API Based Application                                              |
+| Performance | Fast API Integration                                               |
+| Security    | Structured Data Fetching                                           |
+| Impact      | Instant weather insights                                           |
 
-Production-grade machine learning solution with automated retraining.
+### Highlights
+
+* API integration
+* Dynamic weather updates
+* Responsive design
+* Clean user experience
 
 </details>
 
 <details>
-<summary><strong>Full Stack Enterprise Dashboard</strong></summary>
+<summary><strong>📋 FlowBoard Tasks</strong></summary>
 
 ### Description
 
-An executive dashboard for operational intelligence and KPI monitoring.
+A productivity application designed to organize, prioritize, and manage daily tasks efficiently.
 
-| Metric | Details |
-|--------|---------|
-| Stack | React, Node.js, PostgreSQL |
-| Scale | Enterprise deployment |
-| Performance | Real-time analytics |
-| Security | Role-based permissions |
-| Impact | Faster reporting |
-| Repository | https://github.com/yourusername/project |
+| Metric      | Details                                                            |
+| ----------- | ------------------------------------------------------------------ |
+| Repository  | [flowboard-tasks](https://github.com/Raiarslan807/flowboard-tasks) |
+| Stack       | HTML, CSS, JavaScript, Node.js                                     |
+| Category    | Productivity Tool                                                  |
+| Performance | Lightweight Architecture                                           |
+| Security    | Structured Data Handling                                           |
+| Impact      | Improved productivity                                              |
 
-Built for enterprise stakeholders requiring reliable business intelligence.
+### Highlights
+
+* Task organization
+* Productivity focused
+* Lightweight architecture
+* Easy-to-use interface
 
 </details>
 
@@ -208,116 +258,39 @@ Built for enterprise stakeholders requiring reliable business intelligence.
 
 # Experience
 
-## Senior Software Engineer
+## 🎓 BSIT Student & Aspiring Software Engineer
 
-### Company Name
+### University of the Punjab, Pothohar Campus, Gujar Khan
 
-**2024 - Present**
+**2023 - Present**
 
-Architecting scalable products and leading engineering initiatives.
+### Scope of Work
 
-#### Scope of Work
+* Building real-world web applications
+* Strengthening software engineering fundamentals
+* Exploring AI & Machine Learning
+* Developing full stack projects
+* Improving problem-solving skills
 
-- Building cloud-native applications
-- Designing scalable backend systems
-- Integrating AI capabilities
-- Improving developer experience
-- Driving technical decisions
+### Skills
 
-#### Skills
+`HTML`
 
-`System Design`
+`CSS`
+
+`JavaScript`
+
+`React.js`
+
+`Node.js`
+
 `Python`
-`AWS`
-`React`
-`AI`
-`DevOps`
 
----
+`Git`
 
-## AI Engineer
+`GitHub`
 
-### Company Name
-
-**2023 - 2024**
-
-Developed intelligent products using machine learning and automation.
-
-#### Scope of Work
-
-- Machine learning models
-- Data pipelines
-- LLM integration
-- Model deployment
-- Performance optimization
-
-#### Skills
-
-`Machine Learning`
-`TensorFlow`
-`PyTorch`
-`NLP`
-`MLOps`
-
----
-
-# Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|-------------|---------|
-| Open Source Contributor | Contributed to impactful repositories |
-| Product Builder | Delivered scalable products |
-| AI Engineer | Built intelligent systems |
-| Problem Solver | Strong DSA foundations |
-| Technical Leader | Led engineering initiatives |
-
-</div>
-
----
-
-# Certifications
-
-## AWS
-
-![](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws)
-
-## Oracle
-
-![](https://img.shields.io/badge/Oracle-Database%20Foundations-F80000?style=for-the-badge&logo=oracle)
-
-## NPTEL
-
-![](https://img.shields.io/badge/NPTEL-Software%20Engineering-4F46E5?style=for-the-badge)
-
-## Cisco
-
-![](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco)
-
----
-
-# Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/yourusername">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/yourusername">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/yourusername">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
-
-<a href="https://www.codechef.com/users/yourusername">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge"/>
-</a>
-
-</div>
+`MySQL`
 
 ---
 
@@ -325,11 +298,13 @@ Developed intelligent products using machine learning and automation.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raiarslan807&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Raiarslan807&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true"/>
+<br><br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raiarslan807&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -339,7 +314,7 @@ Developed intelligent products using machine learning and automation.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Raiarslan807&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </div>
 
@@ -349,54 +324,94 @@ Developed intelligent products using machine learning and automation.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raiarslan807&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
+# 2026 Goals
+
+```yaml
+Technical_Goals:
+
+  - Master React Ecosystem
+
+  - Learn Next.js
+
+  - Learn Express.js
+
+  - Learn MongoDB
+
+  - Build AI Projects
+
+  - Contribute to Open Source
+
+Career_Goals:
+
+  - Secure Internship Opportunities
+
+  - Build Professional Portfolio
+
+  - Strengthen Problem Solving
+
+  - Expand Development Skills
+```
+
+---
 # Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Raiarslan807/Raiarslan807/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+</div>
+
+> ⚠️ This animation requires a GitHub Action workflow to be configured.
+
+---
+
+# Learning Journey
+
+<div align="center">
+
+| Area                   | Status             |
+| ---------------------- | ------------------ |
+| Software Engineering   | 🟣 Growing         |
+| Full Stack Development | 🟣 Growing         |
+| React Ecosystem        | 🟣 In Progress     |
+| Next.js                | 🟣 Learning        |
+| Node.js                | 🟣 Learning        |
+| AI / ML                | 🟣 Exploring       |
+| Open Source            | 🟣 Getting Started |
 
 </div>
 
 ---
 
-# Current Focus
+# Developer Principles
 
-```yaml
-Learning:
-  - Distributed Systems
-  - Advanced AI Architectures
-  - MLOps
+```text
+✔ Build before consuming endless tutorials
 
-Building:
-  - Enterprise SaaS Products
-  - AI Powered Applications
-  - Open Source Tools
+✔ Focus on consistency over intensity
 
-Exploring:
-  - Multi Agent Systems
-  - Cloud Infrastructure
-  - Platform Engineering
+✔ Learn by creating real projects
 
-Open_To:
-  - Software Engineering Roles
-  - AI Engineering Roles
-  - Collaborations
-  - Product Development
+✔ Prioritize clean and maintainable code
+
+✔ Embrace continuous improvement
+
+✔ Stay curious and keep experimenting
 ```
 
 ---
 
-# Connect
+# Connect With Me
 
 <div align="center">
 
-<a href="mailto:arslanramzan807@gmail.com">
+<a href="mailto:arsalanramzan807@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -404,7 +419,7 @@ Open_To:
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/raiarslan807">
+<a href="https://github.com/Raiarslan807">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -416,9 +431,83 @@ Open_To:
 
 ---
 
+# Setup Contribution Snake
+
+Create this file:
+
+```text
+.github/workflows/snake.yml
+```
+
+Add this code:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: Platane/snk@v3
+
+        with:
+          github_user_name: Raiarslan807
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+
+        with:
+          target_branch: output
+          build_dir: dist
+
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+---
+
+# Future Goals
+
+```yaml
+2026:
+
+  Academic:
+    - Graduate with strong fundamentals
+    - Improve problem solving
+
+  Technical:
+    - Master React
+    - Learn Next.js
+    - Learn Express.js
+    - Learn MongoDB
+
+  Career:
+    - Get Internship
+    - Contribute to Open Source
+    - Build impactful products
+
+  Long_Term:
+    - Become a Full Stack Software Engineer
+    - Build AI powered applications
+```
+
+---
+
 <div align="center">
 
-### *"Engineering impactful products through scalable systems, intelligent solutions, and continuous innovation."*
+### 💜 Learning, building, and growing every day.
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4C1D95,50:6366F1,100:8B5CF6"/>
 
