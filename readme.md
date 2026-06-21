@@ -1,12 +1,13 @@
 <div align="center">
 
-# Arslan Ramzan
+# Arsalan Ramzan
 
-### Software Engineer • Full Stack Developer • BSIT Student
+### Full Stack Developer • Software Engineer • BSIT Student
 
 **University of the Punjab, Pothohar Campus, Gujar Khan**
 
 <p>
+
 <a href="https://raiarslan807.github.io/">
 <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
@@ -15,7 +16,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:arsalanramzan807@gmail.com">
+<a href="mailto:raiarslan807@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -31,61 +32,109 @@
 
 ---
 
-## About
+## 🚀 About
 
-I am a BSIT student passionate about software engineering, full stack development, and building practical digital products.
+I am a BSIT student and Full Stack Developer passionate about building modern, scalable, and user-friendly web applications.
 
-I enjoy transforming ideas into modern applications while continuously strengthening my engineering fundamentals through real-world projects.
+I enjoy transforming ideas into practical digital products while continuously strengthening my software engineering fundamentals through real-world projects.
 
-Currently, my focus is on React, Next.js, Node.js, and exploring artificial intelligence.
+Currently, my focus is on React.js, Node.js, Next.js, and expanding my knowledge in Artificial Intelligence.
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,cpp,mysql,git,github,tailwind,bootstrap,figma"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,nextjs,express,mongodb,python,cpp,mysql,git,github,tailwind,bootstrap,figma"/>
 
 </div>
 
 ---
 
-## Featured Projects
+## 🌟 Featured Projects
 
-### Portfolio Website
+### 🌐 Portfolio Website
 
 Personal portfolio designed to showcase my skills, projects, and professional journey.
 
-🔗 https://github.com/Raiarslan807/Raiarslan807.github.io
+🔗 Live: https://raiarslan807.github.io/
+
+💻 Repository: https://github.com/Raiarslan807/Raiarslan807.github.io
 
 ---
 
-### Stryde E-Commerce
+### 🧺 Epic Smart Laundry
 
-Modern e-commerce application focused on user experience and responsive design.
+A modern laundry management application built to streamline customer orders and service operations.
 
-🔗 https://github.com/Raiarslan807/stryde-ecommerce
+🔗 Live: https://epic-smart-laundry.vercel.app/
 
----
-
-### SkyCast Weather
-
-Weather application that fetches and displays real-time weather information using APIs.
-
-🔗 https://github.com/Raiarslan807/skycast-weather
+💻 Repository: https://github.com/Raiarslan807/epic-smart-laundry
 
 ---
 
-### FlowBoard Tasks
+### 🛒 Stryde E-Commerce
 
-Task management application built to improve productivity and organization.
+A modern e-commerce platform focused on responsive design, performance, and user experience.
 
-🔗 https://github.com/Raiarslan807/flowboard-tasks
+🔗 Live: https://raiarslan807.github.io/stryde-ecommerce/
+
+💻 Repository: https://github.com/Raiarslan807/stryde-ecommerce
 
 ---
 
-## Currently Learning
+### 🛍️ ApnaBazaar
+
+A responsive e-commerce platform built to deliver a seamless online shopping experience.
+
+🔗 Live: https://raiarslan807.github.io/ApnaBazaar/
+
+💻 Repository: https://github.com/Raiarslan807/ApnaBazaar
+
+---
+
+### ☁️ SkyCast Weather
+
+A weather application that fetches and displays real-time weather information.
+
+🔗 Live: https://raiarslan807.github.io/skycast-weather/
+
+💻 Repository: https://github.com/Raiarslan807/skycast-weather
+
+---
+
+### 📋 FlowBoard Tasks
+
+A task management application built to improve productivity and organization.
+
+🔗 Live: https://raiarslan807.github.io/flowboard-tasks/
+
+💻 Repository: https://github.com/Raiarslan807/flowboard-tasks
+
+---
+
+### 🍽️ Epic Restaurant
+
+A responsive restaurant website featuring modern design and intuitive user experience.
+
+🔗 Live: https://raiarslan807.github.io/Epic-restaurant/
+
+💻 Repository: https://github.com/Raiarslan807/Epic-restaurant
+
+---
+
+### 💼 Epic Solutions
+
+A professional business website developed to showcase services and digital solutions.
+
+🔗 Live: https://raiarslan807.github.io/epic-solutions/
+
+💻 Repository: https://github.com/Raiarslan807/epic-solutions
+
+---
+
+## 📚 Currently Learning
 
 <div align="center">
 
@@ -93,14 +142,14 @@ Task management application built to improve productivity and organization.
 
 </div>
 
-* React Ecosystem
-* Next.js
-* Node.js
-* Artificial Intelligence & Machine Learning
+- Advanced React Ecosystem
+- Next.js
+- Node.js
+- Artificial Intelligence (Beginner)
 
 ---
 
-## GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
 
@@ -116,7 +165,7 @@ Task management application built to improve productivity and organization.
 
 ---
 
-## Connect
+## 🤝 Connect
 
 <p>
 
@@ -124,7 +173,7 @@ Task management application built to improve productivity and organization.
 
 <a href="https://www.linkedin.com/in/arsalan-ramzan-b28202253">LinkedIn</a> •
 
-<a href="mailto:arsalanramzan807@gmail.com">Email</a>
+<a href="mailto:raiarslan807@gmail.com">Email</a>
 
 </p>
 
@@ -132,6 +181,6 @@ Task management application built to improve productivity and organization.
 
 <div align="center">
 
-**Building practical software and growing as an engineer every day.**
+### 🚀 Building real-world applications and growing as a software engineer every day.
 
 </div>
