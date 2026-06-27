@@ -2,9 +2,8 @@
 
 # Arsalan Ramzan
 
-### Full Stack Developer • Software Engineer • BSIT Student
+### Full Stack Developer • Software Engineer
 
-**University of the Punjab, Pothohar Campus, Gujar Khan**
 
 <p>
 
@@ -34,7 +33,7 @@
 
 ## 🚀 About
 
-I am a BSIT student and Full Stack Developer passionate about building modern, scalable, and user-friendly web applications.
+I am a Full Stack Developer passionate about building modern, scalable, and user-friendly web applications.
 
 I enjoy transforming ideas into practical digital products while continuously strengthening my software engineering fundamentals through real-world projects.
 
